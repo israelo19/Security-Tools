@@ -11,8 +11,8 @@ def find_suspicious_ips(logs: list[str], threshold: int) -> list[str]:
     for l in logs:
         ip = re.search(an_ip, l)
         res = re.search(a_res, l)
-        res_value = res.group(0)
         
+        res_value = res.group(0)
         ip_value = ip.group(0)
 
         print(f"the ip found: {ip.group(0)}, the result found: {res.group(0)}")
