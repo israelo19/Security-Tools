@@ -35,7 +35,7 @@ python3 port_scan_detector.py
 
 ## About Me
 
-I'm a junior at the University of Maryland studying Computer Science with a concentration in cybersecurity. My background includes network security work at Cisco, and I'm currently exploring the intersection of AI safety and security engineering.
+I'm a Senior at the University of Maryland studying Computer Science with a concentration in cybersecurity. My background includes network security work at Cisco, and I'm currently exploring the intersection of AI safety and security engineering.
 
 ---
 *This project is part of my journey into security engineering and AI safety.*  
